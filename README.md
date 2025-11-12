@@ -40,7 +40,6 @@ The dataset contains HR records for Atlas Labs employees, including:
 ---
 
 ## 📸 Screenshots
-Place your screenshots inside a folder named `/images` in the repo, then link them like this:
 
 #### Dashboard Overview
 <img width="1423" height="796" alt="Screenshot 2025-11-12 at 2 46 15 PM" src="https://github.com/user-attachments/assets/1e65430d-a11a-42c5-a087-f89b6617171e" />
